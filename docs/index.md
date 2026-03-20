@@ -1,35 +1,37 @@
 ---
 title: "Introduction to SimplyAnalytics"
 layout: "home"
-description: ""
+description: "This online tutorial will provide an introduction to SimplyAnalytics and a few of its many possible uses. SimplyAnalytics is a web-based data visualization application. It can be used to create simple thematic maps and tables from census and other socio-demographic data, as well as business point data."
+created_date: 2018-01-04
 permalink: "/"  #! Remove this if not the homepage
 ---
 
 # Introduction to SimplyAnalytics
 
-This online tutorial will provide an introduction to SimplyAnalytics and a few of its many possible uses. SimplyAnalytics is a web\-based data visualization application. It can be used to create simple thematic maps and tables from census and other socio\-demographic data, as well as business point data.
+This online tutorial will provide an introduction to SimplyAnalytics and a few of its many possible uses. SimplyAnalytics is a web-based data visualization application. It can be used to create simple thematic maps and tables from census and other socio-demographic data, as well as business point data.
 
 **Through the following** ***seven*** **steps, this tutorial will provide you with exercises interspersed to test your understanding:** 
   
-[STEP 1: **Accessing** SimplyAnalytics](#Step1)  
-[STEP 2: **Setting up a Project**](#Step2)  
-[STEP 3: Creating **a Thematic Map**](#Step3)  
-[**Exercise 1**](#Ex1)  
-[STEP 4:Mapping **Business Locations**](#Step4)  
-[Exercise 2](#Ex2)  
-[STEP 5: **Options for Exporting** Maps](#Step5)  
-[STEP 6: Creating **Reports**](#Step6)  
-[Exercise 3](#Ex3)  
-[Exercise 4](#Ex4)  
-[STEP 7: **Getting Help**](#Step7)
+[STEP 1: **Accessing** SimplyAnalytics](#accessing-simplyanalytics)  
+[STEP 2: **Setting up a Project**](#setting-up-a-project)  
+[STEP 3: Creating **a Thematic Map**](#creating-a-thematic-map)  
+[**Exercise 1**](#exercise-1)  
+[STEP 4: Mapping **Business Locations**](#mapping-business-locations)  
+[Exercise 2](#exercise-2)  
+[STEP 5: **Options for Exporting** Maps](#options-for-exporting-maps)  
+[STEP 6: Creating **Reports**](#creating-reports)  
+[Exercise 3](#exercise-3)  
+[Exercise 4](#exercise-4)  
+[STEP 7: **Getting Help**](#getting-help)
 
 Let's begin!
 
  
 
-[STEP 1: **Accessing** SimplyAnalytics](#Step1)
+STEP 1: **Accessing** SimplyAnalytics
+{: #accessing-simplyanalytics}
 
-All U of T students, staff, and faculty have access to SimplyAnalytics. SimplyAnalytics is accessed through a web browser (Firefox or Internet Explorer). If you are off\-campus, you need to login with your UTORid before you can use SimplyAnalytics. In this case, you should start by accessing SimplyAnalytics through the library’s website. Go to <https://mdl.library.utoronto.ca/>. Type “simplyanalytics” in the search box.  
+All U of T students, staff, and faculty have access to SimplyAnalytics. SimplyAnalytics is accessed through a web browser (Firefox or Internet Explorer). If you are off-campus, you need to login with your UTORid before you can use SimplyAnalytics. In this case, you should start by accessing SimplyAnalytics through the library’s website. Go to <https://mdl.library.utoronto.ca/>. Type “simplyanalytics” in the search box.  
   
 <img src='{{ '/assets/images/simplyanalytics_1.png' | relative_url }}' alt='MDL library search bar' title='' width='600' height='164' />  
   
@@ -43,17 +45,18 @@ On the SimplyAnalytics page, select the Index link:
 
 <img src='{{ '/assets/images/SimplyAnalytics_003.png' | relative_url }}' alt='The SimplyAnalytics page on MDL website' title='' width='591' height='255' />
 
-You will then be prompted to do one of the following: a) login with a previously\-registered email and password; b) sign in as a guest
+You will then be prompted to do one of the following: a) login with a previously-registered email and password; b) sign in as a guest
 
 <img src='{{ '/assets/images/simply1.JPG' | relative_url }}' alt='' title='' width='466' height='305' />
 
-Create a new account, or login if you are a returning user. Alternatively, sign in as a guest, however, as stated on the sign\-on prompt, "guest" searches and work will not be saved. If you need to create a new account, you will need to sign in and then re\-access the account through the UofT portal. If you do not reacesss the sign in through the portal, the website will not realize your account is affiliated with a permitted partner. \\
+Create a new account, or login if you are a returning user. Alternatively, sign in as a guest, however, as stated on the sign-on prompt, "guest" searches and work will not be saved. If you need to create a new account, you will need to sign in and then re-access the account through the UofT portal. If you do not reacesss the sign in through the portal, the website will not realize your account is affiliated with a permitted partner. 
 
 Once you have logged in, you’ll see the SimplyAnalytics main screen. You may be offered a tour of the site, which briefly introduces you to its layout. Following this, if you are not immediately prompted to create a new project, click on **New Project** at the top of the screen to do so.
 
 <img src='{{ '/assets/images/004-new-project.PNG' | relative_url }}' alt='' title='' width='1015' height='687' />
 
-[STEP 2: **Setting up** a **Project**](#Step2)
+STEP 2: **Setting up** a **Project**
+{: #setting-up-a-project}
 
 In the “New Project” window, you first need to select a county. SimplyAnalytics contains data for Canada and the US, but you can only create a project for one country at a time. For your first project choose **Canada**.
 
@@ -67,7 +70,7 @@ Notice that SimplyAnalytics makes several suggestions for Toronto. This is becau
 
 The Toronto CMA appears in a blue bar below the location search box. You could add additional locations to your project if you chose, but for now, let’s just use the one. Click **Next**.
 
-A pop\-up window appears letting you know that SimplyAnalytics will include three basic census variables in your project by default. We will add additional variables in STEP 3; for now, select **Create project**.
+A pop-up window appears letting you know that SimplyAnalytics will include three basic census variables in your project by default. We will add additional variables in STEP 3; for now, select **Create project**.
 
 <img src='{{ '/assets/images/007-basic-vars_0.PNG' | relative_url }}' alt='' title='' width='693' height='693' />
 
@@ -81,12 +84,22 @@ Click on the name of your project at the top of the screen. Give your project a 
 
 Your first project is now set up and ready to go.
 
-| **ASIDE: Canadian census geography**“Census geography” refers to the geographic units used by Statistics Canada for disseminating information about the Census of Canada. Here are definitions of each of these types of units.* Province/Territory: “Portion of Canada’s land area governed by a political authority. Canada is divided into 10 provinces and 3 territories.” * Census Metro Areas (CMA): “Area consisting of one of more neighbouring municipalities situated around a core. A census metropolitan area must have a total population of at least 100,000 of which 50,000 or more live in the core.” There are 33 CMAs in Canada as of the 2011 census. * Census Division (CD): “Group of neighbouring municipalities joined together for the purposes of regional planning and managing common services (such as police or ambulance services).” In Toronto, the amalgamated City of Toronto corresponds to the Census Division unit. * Census Subdivision (CSD): “Area that is a municipality or an area that is deemed to be equivalent to a municipality for statistical reporting purposes (e.g. as an Indian reserve or an unorganized territory). Municipal status is defined by laws in effect in each province and territory in Canada.” The Toronto CSD is the same as the CD (see above), because of amalgamation. * Census Tract (CT): “Area that is small and relatively stable. Census tracts usually have a population of 2,500 to 8,000 persons. They are located in large urban centres that must have an urban core population of 50,000 or more.” * Dissemination Area (DA): “Small area composed of one or more neighbouring dissemination blocks, with a population of 400 to 700 persons. All of Canada is divided into dissemination areas. It is the smallest standard geographic areas for which all census data are disseminated”. * Canada Postal Code: “The postal code is a six\-character code defined and maintained by Canada Post Corporation for the purpose of sorting and delivering mail.”  Source: [Statistics Canada’s census dictionary](https://www12-statcan-gc-ca.myaccess.library.utoronto.ca/census-recensement/2011/ref/dict/azindex-eng.cfm). |
-| --- |
+
+**ASIDE: Canadian census geography**  
+“Census geography” refers to the geographic units used by Statistics Canada for disseminating information about the Census of Canada. Here are definitions of each of these types of units.
+* Province/Territory: “Portion of Canada’s land area governed by a political authority. Canada is divided into 10 provinces and 3 territories.” 
+* Census Metro Areas (CMA): “Area consisting of one of more neighbouring municipalities situated around a core. A census metropolitan area must have a total population of at least 100,000 of which 50,000 or more live in the core.” There are 33 CMAs in Canada as of the 2011 census. 
+* Census Division (CD): “Group of neighbouring municipalities joined together for the purposes of regional planning and managing common services (such as police or ambulance services).” In Toronto, the amalgamated City of Toronto corresponds to the Census Division unit. 
+* Census Subdivision (CSD): “Area that is a municipality or an area that is deemed to be equivalent to a municipality for statistical reporting purposes (e.g. as an Indian reserve or an unorganized territory). Municipal status is defined by laws in effect in each province and territory in Canada.” The Toronto CSD is the same as the CD (see above), because of amalgamation. 
+* Census Tract (CT): “Area that is small and relatively stable. Census tracts usually have a population of 2,500 to 8,000 persons. They are located in large urban centres that must have an urban core population of 50,000 or more.” 
+* Dissemination Area (DA): “Small area composed of one or more neighbouring dissemination blocks, with a population of 400 to 700 persons. All of Canada is divided into dissemination areas. It is the smallest standard geographic areas for which all census data are disseminated”. 
+* Canada Postal Code: “The postal code is a six-character code defined and maintained by Canada Post Corporation for the purpose of sorting and delivering mail.”  Source: [Statistics Canada’s census dictionary](https://www12-statcan-gc-ca.myaccess.library.utoronto.ca/census-recensement/2011/ref/dict/azindex-eng.cfm). 
+
 
  
 
-[STEP 3: **Creating a Thematic Map**](#Step3)
+STEP 3: **Creating a Thematic Map**
+{: #creating-a-thematic-map}
 
 This step will bring you through a number of the functions available on SimplyAnlaytics, with the ultimate goal of*making a map of average houshold income by sensus subdivisions within the Toronto CMA*. Our work will be broken up according to the development of the following skills:
 
@@ -100,7 +113,7 @@ d) Legend Editor
 
 e) Map Management
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+-------------------------------------
 
 **A) Navigating and Exploring the Map**
 
@@ -120,15 +133,15 @@ The individual data characteristics that you can include on your map are known a
 
 <img src='{{ '/assets/images/SImplyAnalytics_01.png' | relative_url }}' alt='A list of data characteristics that can be included on your map.' title='' width='600' height='328' />
 
-At the right\-hand side of the panel is a list of possible variables to add to the map. There are quite a lot of them! There are variables that show the total number of individuals or households making a certain income range, as well as variables showing total, average, or median income. You can use the various filter options to narrow down your options if you like. For example, under “Data Type”, select **average**. The selection you have made appears at the top of the window as a blue box, which can be removed at any time if you change your mind.
+At the right-hand side of the panel is a list of possible variables to add to the map. There are quite a lot of them! There are variables that show the total number of individuals or households making a certain income range, as well as variables showing total, average, or median income. You can use the various filter options to narrow down your options if you like. For example, under “Data Type”, select **average**. The selection you have made appears at the top of the window as a blue box, which can be removed at any time if you change your mind.
 
 <img src='{{ '/assets/images/012-var-selector2.PNG' | relative_url }}' alt='' title='' width='749' height='572' />
 
-Let’s take a closer look at the third variable in the list, “Households by Income (Current Year) \| Average Household Income (Current Year $)”. You can find out more about this variable by clicking the menu button (vertical ellipsis) and choosing **View Metadata**.
+Let’s take a closer look at the third variable in the list, “Households by Income (Current Year) | Average Household Income (Current Year $)”. You can find out more about this variable by clicking the menu button (vertical ellipsis) and choosing **View Metadata**.
 
 <img src='{{ '/assets/images/012-var-selector3.png' | relative_url }}' alt='' title='' width='749' height='572' />
 
-The “Variable Metadata” window appears. Here you can find out some additional details about this variable. We can see that it is an estimate variable for the current year (2017\) and that it comes from an organization called Environics. So, we have determined that this data is not official census data from Statistics Canada. That doesn’t mean it is bad, it is simply important to be aware of your data sources, and to cite them correctly when you use them in your academic work.
+The “Variable Metadata” window appears. Here you can find out some additional details about this variable. We can see that it is an estimate variable for the current year (2017) and that it comes from an organization called Environics. So, we have determined that this data is not official census data from Statistics Canada. That doesn’t mean it is bad, it is simply important to be aware of your data sources, and to cite them correctly when you use them in your academic work.
 
 <img src='{{ '/assets/images/014-view-metadata.PNG' | relative_url }}' alt='' title='' width='664' height='479' />
 
@@ -148,27 +161,27 @@ Now close the variable selection panel. In the data panel, you can click on the 
 
 <img src='{{ '/assets/images/018-favorites.PNG' | relative_url }}' alt='' title='' width='303' height='462' />
 
-Now have a look at your map. Notice that the variable being displayed is now the household income variable. Click on the drop\-down menu. At any time, you can choose amongst all the variables that have been added to this map. Right now, we have the three default variables SimplyAnalytics always adds, plus our household income variable. Leave the income variable selected.
+Now have a look at your map. Notice that the variable being displayed is now the household income variable. Click on the drop-down menu. At any time, you can choose amongst all the variables that have been added to this map. Right now, we have the three default variables SimplyAnalytics always adds, plus our household income variable. Leave the income variable selected.
 
 <img src='{{ '/assets/images/019-variables.PNG' | relative_url }}' alt='' title='' width='782' height='427' />
 
 **C) Refining the Location**
 
-We’ve already chosen to create our map of the Toronto CMA. However, right now the map is showing CMA broken down by Census Divisions. We want to show Census Subdivisions. Click on the drop\-down menu for Census Divisions, and change the selection to **Census Subdivisions** instead.
+We’ve already chosen to create our map of the Toronto CMA. However, right now the map is showing CMA broken down by Census Divisions. We want to show Census Subdivisions. Click on the drop-down menu for Census Divisions, and change the selection to **Census Subdivisions** instead.
 
 <img src='{{ '/assets/images/020-change-geo-breakdown.PNG' | relative_url }}' alt='' title='' width='702' height='292' />
 
 The map will refresh and now the light grey boundaries will show smaller regions which correspond to municipalities. Some select municipalities will be labelled.
 
-Note also that you can change your overall geography at any time by selecting the **Locations** tab in the left\-hand panel. You can search for a new location there. For example, search for **Hamilton**. Click the **CMA option** for Hamilton.
+Note also that you can change your overall geography at any time by selecting the **Locations** tab in the left-hand panel. You can search for a new location there. For example, search for **Hamilton**. Click the **CMA option** for Hamilton.
 
 <img src='{{ '/assets/images/021-change-geo-map.PNG' | relative_url }}' alt='' title='' width='304' height='279' />
 
-Your map will now show Hamilton instead.  Now, in the drop\-down menu above the map, you can choose between the Toronto and Hamilton CMAs at any time.
+Your map will now show Hamilton instead.  Now, in the drop-down menu above the map, you can choose between the Toronto and Hamilton CMAs at any time.
 
 <img src='{{ '/assets/images/022-change-geo-map2.PNG' | relative_url }}' alt='' title='' width='537' height='323' />
 
-You also have several options for creating custom locations. Let’s imagine that your research area actually includes both the Toronto and Hamilton CMAs and you want to map them both at the same time. On the Locations tab, click **Custom Locations**, then**Create new combination location**.
+You also have several options for creating custom locations. Let’s imagine that your research area actually includes both the Toronto and Hamilton CMAs and you want to map them both at the same time. On the Locations tab, click **Custom Locations**, then **Create new combination location**.
 
 <img src='{{ '/assets/images/023-combination-location.PNG' | relative_url }}' alt='' title='' width='301' height='422' />
 
@@ -176,7 +189,7 @@ The “Create Combination Location” window appears. In step 1, give your custo
 
 <img src='{{ '/assets/images/024-combination-location2.PNG' | relative_url }}' alt='' title='' width='811' height='602' />
 
-The combination location will appear on the map, outlined in yellow. In the drop\-down menu at the top of the screen, this location will now also be available.
+The combination location will appear on the map, outlined in yellow. In the drop-down menu at the top of the screen, this location will now also be available.
 
 <img src='{{ '/assets/images/025-combination-location3.PNG' | relative_url }}' alt='' title='' width='561' height='631' />
 
@@ -184,7 +197,7 @@ Another custom location option is to create a radius location. This can be used 
 
 <img src='{{ '/assets/images/026-radius-location.PNG' | relative_url }}' alt='' title='' width='305' height='393' />
 
-The ”Create Radius Location” window appears. Let’s try to pinpoint the centre of campus as closely as we can by searching for the postal code of the downtown campus, **M5S 1A5**. Notice that the search results suggest a dissemination area, DA4157\. Dissemination area is the most detailed census geography that we can map data for. You can search for postal codes in SimplyAnalytics, and the system will map them to the dissemination area in which they fall. This is handy because, while postal codes are often familiar to us, we rarely know dissemination area codes off the top of our heads! Click on the suggested dissemination area to select it.
+The ”Create Radius Location” window appears. Let’s try to pinpoint the centre of campus as closely as we can by searching for the postal code of the downtown campus, **M5S 1A5**. Notice that the search results suggest a dissemination area, DA4157. Dissemination area is the most detailed census geography that we can map data for. You can search for postal codes in SimplyAnalytics, and the system will map them to the dissemination area in which they fall. This is handy because, while postal codes are often familiar to us, we rarely know dissemination area codes off the top of our heads! Click on the suggested dissemination area to select it.
 
 <img src='{{ '/assets/images/027-radius-location2.PNG' | relative_url }}' alt='' title='' width='457' height='226' />
 
@@ -208,11 +221,11 @@ Notice that now a star icon has appeared beside the recent locations icon. **Cli
 
 <img src='{{ '/assets/images/030_3-favourite-locations2.PNG' | relative_url }}' alt='' title='' width='304' height='276' />
 
-Let’s go back to the Toronto CMA to continue designing our map. Choose Toronto from the drop\-down menu at the top of your map. Make sure Census Subdivisions is still selected as the geographic breakdown.
+Let’s go back to the Toronto CMA to continue designing our map. Choose Toronto from the drop-down menu at the top of your map. Make sure Census Subdivisions is still selected as the geographic breakdown.
 
 **D) Legend Editor**
 
-This map isn’t really very interesting. Almost the entire CMA is displayed as one colour! You can make some changes in the legend to display the data more clearly. On the legend in the top right\-hand corner of the map, click **Edit**.
+This map isn’t really very interesting. Almost the entire CMA is displayed as one colour! You can make some changes in the legend to display the data more clearly. On the legend in the top right-hand corner of the map, click **Edit**.
 
 <img src='{{ '/assets/images/031-legend.PNG' | relative_url }}' alt='' title='' width='250' height='443' />
 
@@ -220,7 +233,7 @@ The Legend switches to edit mode. Change the classification method to **Quantile
 
 <img src='{{ '/assets/images/032-legend-classification.PNG' | relative_url }}' alt='' title='' width='254' height='239' />
 
-If you like, you can change your map’s colour scheme. If you’re finding it difficult to see the grey outlines of the Census Subdivisions, you could make their outlines thicker (e.g. change the thickness to 2\). You could change the outline colour if you like as well.
+If you like, you can change your map’s colour scheme. If you’re finding it difficult to see the grey outlines of the Census Subdivisions, you could make their outlines thicker (e.g. change the thickness to 2). You could change the outline colour if you like as well.
 
 <img src='{{ '/assets/images/033-legend-colour-scheme.PNG' | relative_url }}' alt='' title='' width='249' height='416' /><img src='{{ '/assets/images/034-legend-outline.PNG' | relative_url }}' alt='' title='' width='277' height='416' />
 
@@ -230,7 +243,7 @@ When you’re finished editing the legend, click **Done**. Your map may look som
 
 **E) Map Management**
 
-There is no need to save the maps you create in SimplyAnalytics – they are saved automatically and appear within your project as “views” listed down the right\-hand side of the screen. We have been working on the listing currently called “Map”. (We’ll be looking at the comparison reports and rankings a bit later). Click on the **tiny arrow** at the top left\-hand corner of the Map listing, and select **Rename**.
+There is no need to save the maps you create in SimplyAnalytics – they are saved automatically and appear within your project as “views” listed down the right-hand side of the screen. We have been working on the listing currently called “Map”. (We’ll be looking at the comparison reports and rankings a bit later). Click on the **tiny arrow** at the top left-hand corner of the Map listing, and select **Rename**.
 
 <img src='{{ '/assets/images/037-views.PNG' | relative_url }}' alt='' title='' width='524' height='551' />
 
@@ -260,7 +273,8 @@ Finally, click on **Project Settings** at the top of the screen. Here, you will�
 
 <img src='{{ '/assets/images/SimplyAnalytics_046.png' | relative_url }}' alt='Project Settings page for SimplyAnalytics' title='' width='994' height='314' />
 
-[**EXERCISE 1**](#Ex1)
+**EXERCISE 1**
+{: #exercise-1}
 
 SimplyAnalytics contains much more than the income variable we looked at in the first task. Take this opportunity to explore the Data tab to find variables of interest to your research.
 
@@ -290,11 +304,12 @@ Take some time to explore the full range of variables and create a map showing a
 
 <img src='{{ '/assets/images/047-example-map.PNG' | relative_url }}' alt='' title='' width='1029' height='703' />
 
-[STEP 4: **Mapping Business Locations**](#Step4)
+STEP 4: **Mapping Business Locations**
+{: #mapping-business-locations}
 
 You may have noticed a tab in the side panel called Businesses, which we haven’t worked with yet. This allows you to add business locations and points of interest to a map or report. Let’s do so now, with our **Toronto Avg Income** map. Click on the map in the views listing to activate it.
 
-Select the Businesses tab in the left\-hand panel. You can search for points by typing a keyword, business name, NAICS code or SIC code into the search box.
+Select the Businesses tab in the left-hand panel. You can search for points by typing a keyword, business name, NAICS code or SIC code into the search box.
 
 For example, imagine you wished to show all the Canadian Tire stores in the Toronto area on the map. Enter **Canadian Tire** in the search box and hit **Enter**.
 
@@ -318,7 +333,7 @@ Another option is to browse businesses by category. Instead of typing in a searc
 
 <img src='{{ '/assets/images/052-business-info.PNG' | relative_url }}' alt='' title='' width='438' height='459' />
 
-The final, and most sophisticated, way to identify businesses is to use advanced search. Click on **Use advanced search** in the Businesses panel. The “Advanced Business Search” window appears. Let’s first add a search parameter to find the NAICS code for hardware stores, similar to what we did previously. In the first box choose **NAICS**. In the second box, select **Starts with**. When you click in the third box, a browse menu comes up. Drill down until you get to **444130 \- Hardware Stores**.
+The final, and most sophisticated, way to identify businesses is to use advanced search. Click on **Use advanced search** in the Businesses panel. The “Advanced Business Search” window appears. Let’s first add a search parameter to find the NAICS code for hardware stores, similar to what we did previously. In the first box choose **NAICS**. In the second box, select **Starts with**. When you click in the third box, a browse menu comes up. Drill down until you get to **444130 - Hardware Stores**.
 
 <img src='{{ '/assets/images/053-business-advanced.PNG' | relative_url }}' alt='' title='' width='704' height='501' />
 
@@ -332,25 +347,28 @@ For this condition, in the first box, choose **Sales Volume**. In the second box
 
 Again, the map and legend update with the results of our search.
 
-If you like, you can edit the name of your point set within the legend by clicking on it. For example, change the name to **Hardware stores, sales vol\>$5M** (the number of characters is limited).
+If you like, you can edit the name of your point set within the legend by clicking on it. For example, change the name to **Hardware stores, sales vol>$5M** (the number of characters is limited).
 
 <img src='{{ '/assets/images/056-business-rename-legend.PNG' | relative_url }}' alt='' title='' width='527' height='278' />
 
  
 
-[**EXERCISE 2**](#Ex2)
+**EXERCISE 2**
+{: #exercise-2}
 
 Switch to your Exercises map.
 
-***Task: Add a set of businesses to the map you created in Exercise 1\. Choose a zoom level that you think works well for your data, and give your business set a name in the legend.***
+***Task: Add a set of businesses to the map you created in Exercise 1. Choose a zoom level that you think works well for your data, and give your business set a name in the legend.***
 
 Take the time to play around with the different search options for refining your set of businesses.
 
  
 
-[STEP 5: **Options** for **Exporting**Maps](#Step5)
+STEP 5: **Options** for **Exporting** Maps
+{: #options-for-exporting-maps}
 
-Choose the Toronto Avg Income map. If necessary, zoom out so that the entire Toronto CMA (yellow outline) is showing. Click the **View Actions** button near the top right\-hand corner of the screen. Here is where you can set some additional view options before you export a map:
+
+Choose the Toronto Avg Income map. If necessary, zoom out so that the entire Toronto CMA (yellow outline) is showing. Click the **View Actions** button near the top right-hand corner of the screen. Here is where you can set some additional view options before you export a map:
 
 * **Show Legend:** toggle the legend on and off.
 * **Show Map Labels:** label the geographic locations on the map.
@@ -360,13 +378,13 @@ Choose the Toronto Avg Income map. If necessary, zoom out so that the entire Tor
 The **Export Shapefiles** option is a very useful option as well, it allows you to download the thematic map variable as a shapefile (geospatial data file) for use in Geographic Information Systems (GIS).  
 <img src='{{ '/assets/images/057-view-actions.PNG' | relative_url }}' alt='' title='' width='326' height='424' />
 
-\*Note: the business locations cannot be directly downloaded as a shapefile.\*
+*Note: the business locations cannot be directly downloaded as a shapefile.*
 
 If you do not want a shapefile, you will instead  click on the **Export** button once you have finished setting your view options.
 
 <img src='{{ '/assets/images/058-export.PNG' | relative_url }}' alt='' title='' width='308' height='57' />
 
-The “Export Map” window appears. This is a 3\-step process. In Step 1, **drag the dotted outline** until the map area you wish to export is all included. Select different paper size and orientation if desired. When you are finished, click **Continue to Layout**.
+The “Export Map” window appears. This is a 3-step process. In Step 1, **drag the dotted outline** until the map area you wish to export is all included. Select different paper size and orientation if desired. When you are finished, click **Continue to Layout**.
 
 <img src='{{ '/assets/images/059-export2.PNG' | relative_url }}' alt='' title='' width='1200' height='699' />
 
@@ -382,7 +400,9 @@ When your download is finished, you can open it and check how it turned out.
 
 <img src='{{ '/assets/images/062-exported.PNG' | relative_url }}' alt='' title='' width='1200' height='740' />
 
-[STEP 6: Creating **Reports**](#Step6)
+STEP 6: Creating **Reports**
+{: #creating-reports}
+
 
 This step will be broken up into three sections, along with two Exercises:
 
@@ -396,13 +416,13 @@ c) Creating a Ranking Report
 
 EXERCISE 4
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+---------------------------------------------
 
 **A) Creating a Business Report**
 
 A businesses report view was already created when we started adding businesses to our map. Click on it now from the views bar.
 
-The businesses report will appear. Along the top of the report, you can choose the businesses search you wish to display in your report. If your “Hardware stores, sales volume \>$5m” search is not selected, choose it now. The location should be set to Toronto CMA, though this can be changed as well from the drop\-down menu.
+The businesses report will appear. Along the top of the report, you can choose the businesses search you wish to display in your report. If your “Hardware stores, sales volume >$5m” search is not selected, choose it now. The location should be set to Toronto CMA, though this can be changed as well from the drop-down menu.
 
 <img src='{{ '/assets/images/063-business-report.PNG' | relative_url }}' alt='' title='' width='1134' height='558' />
 
@@ -434,11 +454,12 @@ The setup screen for your new businesses report appears. Here you will be able t
 
 <img src='{{ '/assets/images/071-new-view3.PNG' | relative_url }}' alt='' title='' width='833' height='516' />
 
-Your business report appears. You can continue to modify the report at any time by running new searches for businesses or places in the side panel. These will immediately become available in the drop\-down menus at the top of your report.
+Your business report appears. You can continue to modify the report at any time by running new searches for businesses or places in the side panel. These will immediately become available in the drop-down menus at the top of your report.
 
  
 
-[**EXERCISE 3**](#Ex3)
+**EXERCISE 3**
+{: #exercise-3}
 
 ***Task: Using the Businesses 2 report view, generate a businesses report. Give the report a new name, and export it to a file.***
 
@@ -468,7 +489,7 @@ We can see from looking at the results that we could use data for “mother tong
 
 <img src='{{ '/assets/images/076-search-data2.PNG' | relative_url }}' alt='' title='' width='448' height='398' />
 
-Close the search window by clicking on the **X** in the top right\-hand corner. Our new variable has now been added to the “Edit Comparison Report” window. **Un\-select all other variables**, leaving only the mandarin speakers variable selected. Click **Done**.
+Close the search window by clicking on the **X** in the top right-hand corner. Our new variable has now been added to the “Edit Comparison Report” window. **Un-select all other variables**, leaving only the mandarin speakers variable selected. Click **Done**.
 
 <img src='{{ '/assets/images/077-comparison-report4.PNG' | relative_url }}' alt='' title='' width='661' height='574' />
 
@@ -500,19 +521,19 @@ This report is displaying the census divisions within the Toronto CMA. It is dis
 
 ***Task: Create a report to compare the expenditures on food and women’s clothing for all census subdivisions (municipalities) in both the Toronto and Hamilton CMAs.***
 
-We can set up some of these parameters immediately using the drop\-down menus at the top of the screen. Change census divisions to census subdivisions. Change Toronto to the combination location we created earlier for Toronto \& Hamilton CMAs. (As with all reports, you could search for new locations and create new custom locations using the Locations tab in the side panel at any time, and these would be added to your options list.)
+We can set up some of these parameters immediately using the drop-down menus at the top of the screen. Change census divisions to census subdivisions. Change Toronto to the combination location we created earlier for Toronto & Hamilton CMAs. (As with all reports, you could search for new locations and create new custom locations using the Locations tab in the side panel at any time, and these would be added to your options list.)
 
 <img src='{{ '/assets/images/083-ranking-report3.PNG' | relative_url }}' alt='' title='' width='671' height='258' />
 
-Now we need to add our variables. In the **Data** tab on the side panel, choose the **Consumer Behaviour** category. In the search box, scroll down in the central panel until you find the date limit options. The default option is always going to be to give you the latest available data. In this case, the latest available is 2017\. Because the year 2017 is not yet over, we know that these data must be projections. If we want to use the most recent year for which complete data is available, we can select **2016**.
+Now we need to add our variables. In the **Data** tab on the side panel, choose the **Consumer Behaviour** category. In the search box, scroll down in the central panel until you find the date limit options. The default option is always going to be to give you the latest available data. In this case, the latest available is 2017. Because the year 2017 is not yet over, we know that these data must be projections. If we want to use the most recent year for which complete data is available, we can select **2016**.
 
 <img src='{{ '/assets/images/084a-browse-filter.PNG' | relative_url }}' alt='' title='' width='351' height='586' />
 
-Now, to select the variable, let’s use the filter option. Type **food** in the filter box. Add the **Average Total Expenditure \| Food** variable to the table.
+Now, to select the variable, let’s use the filter option. Type food in the filter box. Add the Average Total Expenditure | Food variable to the table.
 
 <img src='{{ '/assets/images/084-browse-filter.PNG' | relative_url }}' alt='' title='' width='1044' height='770' />
 
-Next, change the filter term to **clothing**. Add the variable **Average Total expenditure \| Clothing \| Women’s and girls’ clothing (4 years and over) \| Women (aged 15 and over): Clothing** to the map.
+Next, change the filter term to **clothing**. Add the variable Average Total expenditure | Clothing | Women’s and girls’ clothing (4 years and over) | Women (aged 15 and over): Clothing to the map.
 
 <img src='{{ '/assets/images/085-browse-filter2.PNG' | relative_url }}' alt='' title='' width='1046' height='812' />
 
@@ -540,7 +561,7 @@ You can change which column the table is sorted by, by clicking on a column and 
 
 <img src='{{ '/assets/images/091-ranking-report9.PNG' | relative_url }}' alt='' title='' width='696' height='298' />
 
-Let’s make one further change. Let’s only show the census subdivisions (municipalities) where the expenditure on food is more than $12,000 on average annually. Click the **Filtering** button.  In step 1, click on the **average expenditure for food variable**. This variable will now appear in step 2\.  Add the expression **is greater than $12,000**.  Select **Hide** instead of Strikeout. Click **Apply**, then close the filtering window.
+Let’s make one further change. Let’s only show the census subdivisions (municipalities) where the expenditure on food is more than $12,000 on average annually. Click the **Filtering** button.  In step 1, click on the **average expenditure for food variable**. This variable will now appear in step 2.  Add the expression **is greater than $12,000**.  Select **Hide** instead of Strikeout. Click **Apply**, then close the filtering window.
 
 <img src='{{ '/assets/images/092-filtering.PNG' | relative_url }}' alt='' title='' width='926' height='731' />
 
@@ -554,22 +575,24 @@ Finally, just like with the previous report, you can rename it and export it if 
 
  
 
-[**EXERCISE 4**](#Ex4)
+**EXERCISE 4**
+{: #exercise-4}
 
 ***Task: Explore the different reports. You can make any of the report types covered in this workshop, or go to New View and explore additional report options available in SimplyAnalytics.***
 
-[STEP 7: **Getting** Help](#Step7)
+STEP 7: **Getting** Help
+{: #getting-help}
 
 The **Help Centre** has various articles describing how to accomplish different tasks in SimplyAnalytics.
 
 <img src='{{ '/assets/images/095-support2.PNG' | relative_url }}' alt='' title='' width='769' height='495' />
 
-If you still have questions, you can contact either the Map \& Data Library ([mdl@library.utoronto.ca](mailto:mdl@library.utoronto.ca)) or SimplyAnalytics support directly, through the links provided in the Support menu and Help Center.
+If you still have questions, you can contact either the Map & Data Library ([mdl@library.utoronto.ca](mailto:mdl@library.utoronto.ca)) or SimplyAnalytics support directly, through the links provided in the Support menu and Help Center.
 
 Please also feel free to consult these official guides from SimplyAnalytics:
 
 * [SimplyAnalytics Canada FAQ](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada%20FAQ_Standard.pdf)
-* [SimplyAnalytics Canada FAQ \- PRIZM database](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada FAQ Sheet_PRIZM_PremD&B.pdf)
+* [SimplyAnalytics Canada FAQ - PRIZM database](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada FAQ Sheet_PRIZM_PremD&B.pdf)
 * [SimplyAnalytics USA Exercise Guide](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/SimplyAnalytics USA Exercise Guide - Answering Research Questions - Standard.pdf)
 
-Technique: [Data Visualization](/technique/data-visualization), [Searching for maps and data](/technique/searching-maps-and-data) \| Tools: [SimplyAnalytics](/tools/simplyanalytics-0) \| Data Format: [Statistics](/data-format/statistics), [Vector](/data-format/vector)**Date Created:** 2018\-01\-04**Updated:** 2025\-01\-27
+Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization), [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data) | Tools: [SimplyAnalytics](https://mdl.library.utoronto.ca/tools/simplyanalytics-0) | Data Format: [Statistics](https://mdl.library.utoronto.ca/data-format/statistics), [Vector](https://mdl.library.utoronto.ca/data-format/vector)
