@@ -4,6 +4,9 @@ layout: "home"
 description: "This online tutorial will provide an introduction to SimplyAnalytics and a few of its many possible uses. SimplyAnalytics is a web-based data visualization application. It can be used to create simple thematic maps and tables from census and other socio-demographic data, as well as business point data."
 created_date: 2018-01-04
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Leanne Trimble
+   link: https://library.utoronto.ca/staff/leanne-trimble
 ---
 
 # Introduction to SimplyAnalytics
@@ -93,7 +96,7 @@ Your first project is now set up and ready to go.
 * Census Subdivision (CSD): “Area that is a municipality or an area that is deemed to be equivalent to a municipality for statistical reporting purposes (e.g. as an Indian reserve or an unorganized territory). Municipal status is defined by laws in effect in each province and territory in Canada.” The Toronto CSD is the same as the CD (see above), because of amalgamation. 
 * Census Tract (CT): “Area that is small and relatively stable. Census tracts usually have a population of 2,500 to 8,000 persons. They are located in large urban centres that must have an urban core population of 50,000 or more.” 
 * Dissemination Area (DA): “Small area composed of one or more neighbouring dissemination blocks, with a population of 400 to 700 persons. All of Canada is divided into dissemination areas. It is the smallest standard geographic areas for which all census data are disseminated”. 
-* Canada Postal Code: “The postal code is a six-character code defined and maintained by Canada Post Corporation for the purpose of sorting and delivering mail.”  Source: [Statistics Canada’s census dictionary](https://www12-statcan-gc-ca.myaccess.library.utoronto.ca/census-recensement/2011/ref/dict/azindex-eng.cfm). 
+* Canada Postal Code: “The postal code is a six-character code defined and maintained by Canada Post Corporation for the purpose of sorting and delivering mail.”  Source: [Statistics Canada’s census dictionary](https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/azindex-eng.cfm). 
 
 
  
