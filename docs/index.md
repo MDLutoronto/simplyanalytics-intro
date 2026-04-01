@@ -15,23 +15,23 @@ This online tutorial will provide an introduction to SimplyAnalytics and a few o
 
 **Through the following** ***seven*** **steps, this tutorial will provide you with exercises interspersed to test your understanding:** 
   
-[STEP 1: **Accessing** SimplyAnalytics](#accessing-simplyanalytics)  
-[STEP 2: **Setting up a Project**](#setting-up-a-project)  
-[STEP 3: Creating **a Thematic Map**](#creating-a-thematic-map)  
-[**Exercise 1**](#exercise-1)  
-[STEP 4: Mapping **Business Locations**](#mapping-business-locations)  
+[STEP 1: Accessing SimplyAnalytics](#accessing-simplyanalytics)  
+[STEP 2: Setting up a Project](#setting-up-a-project)  
+[STEP 3: Creating a Thematic Map](#creating-a-thematic-map)  
+[Exercise 1](#exercise-1)  
+[STEP 4: Mapping Business Locations](#mapping-business-locations)  
 [Exercise 2](#exercise-2)  
-[STEP 5: **Options for Exporting** Maps](#options-for-exporting-maps)  
-[STEP 6: Creating **Reports**](#creating-reports)  
+[STEP 5: Options for Exporting Maps](#options-for-exporting-maps)  
+[STEP 6: Creating Reports](#creating-reports)  
 [Exercise 3](#exercise-3)  
 [Exercise 4](#exercise-4)  
-[STEP 7: **Getting Help**](#getting-help)
+[STEP 7: Getting Help](#getting-help)
 
 Let's begin!
 
  
 
-STEP 1: **Accessing** SimplyAnalytics
+STEP 1: Accessing SimplyAnalytics
 {: #accessing-simplyanalytics}
 
 All U of T students, staff, and faculty have access to SimplyAnalytics. SimplyAnalytics is accessed through a web browser (Firefox or Internet Explorer). If you are off-campus, you need to login with your UTORid before you can use SimplyAnalytics. In this case, you should start by accessing SimplyAnalytics through the library’s website. Go to <https://mdl.library.utoronto.ca/>. Type “simplyanalytics” in the search box.  
@@ -58,7 +58,7 @@ Once you have logged in, you’ll see the SimplyAnalytics main screen. You may b
 
 <img src='{{ '/assets/images/004-new-project.PNG' | relative_url }}' alt='' title='' width='1015' height='687' />
 
-STEP 2: **Setting up** a **Project**
+STEP 2: Setting up a Project
 {: #setting-up-a-project}
 
 In the “New Project” window, you first need to select a county. SimplyAnalytics contains data for Canada and the US, but you can only create a project for one country at a time. For your first project choose **Canada**.
@@ -101,7 +101,7 @@ Your first project is now set up and ready to go.
 
  
 
-STEP 3: **Creating a Thematic Map**
+STEP 3: Creating a Thematic Map
 {: #creating-a-thematic-map}
 
 This step will bring you through a number of the functions available on SimplyAnlaytics, with the ultimate goal of*making a map of average houshold income by sensus subdivisions within the Toronto CMA*. Our work will be broken up according to the development of the following skills:
@@ -276,7 +276,7 @@ Finally, click on **Project Settings** at the top of the screen. Here, you will�
 
 <img src='{{ '/assets/images/SimplyAnalytics_046.png' | relative_url }}' alt='Project Settings page for SimplyAnalytics' title='' width='994' height='314' />
 
-**EXERCISE 1**
+EXERCISE 1
 {: #exercise-1}
 
 SimplyAnalytics contains much more than the income variable we looked at in the first task. Take this opportunity to explore the Data tab to find variables of interest to your research.
@@ -307,7 +307,7 @@ Take some time to explore the full range of variables and create a map showing a
 
 <img src='{{ '/assets/images/047-example-map.PNG' | relative_url }}' alt='' title='' width='1029' height='703' />
 
-STEP 4: **Mapping Business Locations**
+STEP 4: Mapping Business Locations
 {: #mapping-business-locations}
 
 You may have noticed a tab in the side panel called Businesses, which we haven’t worked with yet. This allows you to add business locations and points of interest to a map or report. Let’s do so now, with our **Toronto Avg Income** map. Click on the map in the views listing to activate it.
@@ -356,7 +356,7 @@ If you like, you can edit the name of your point set within the legend by clicki
 
  
 
-**EXERCISE 2**
+EXERCISE 2
 {: #exercise-2}
 
 Switch to your Exercises map.
@@ -367,7 +367,7 @@ Take the time to play around with the different search options for refining your
 
  
 
-STEP 5: **Options** for **Exporting** Maps
+STEP 5: Options for Exporting Maps
 {: #options-for-exporting-maps}
 
 
@@ -403,7 +403,7 @@ When your download is finished, you can open it and check how it turned out.
 
 <img src='{{ '/assets/images/062-exported.PNG' | relative_url }}' alt='' title='' width='1200' height='740' />
 
-STEP 6: Creating **Reports**
+STEP 6: Creating Reports
 {: #creating-reports}
 
 
@@ -461,7 +461,7 @@ Your business report appears. You can continue to modify the report at any time 
 
  
 
-**EXERCISE 3**
+EXERCISE 3
 {: #exercise-3}
 
 ***Task: Using the Businesses 2 report view, generate a businesses report. Give the report a new name, and export it to a file.***
@@ -578,12 +578,12 @@ Finally, just like with the previous report, you can rename it and export it if 
 
  
 
-**EXERCISE 4**
+EXERCISE 4
 {: #exercise-4}
 
 ***Task: Explore the different reports. You can make any of the report types covered in this workshop, or go to New View and explore additional report options available in SimplyAnalytics.***
 
-STEP 7: **Getting** Help
+STEP 7: Getting Help
 {: #getting-help}
 
 The **Help Centre** has various articles describing how to accomplish different tasks in SimplyAnalytics.
