@@ -597,5 +597,3 @@ Please also feel free to consult these official guides from SimplyAnalytics:
 * [SimplyAnalytics Canada FAQ](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada%20FAQ_Standard.pdf)
 * [SimplyAnalytics Canada FAQ - PRIZM database](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada FAQ Sheet_PRIZM_PremD&B.pdf)
 * [SimplyAnalytics USA Exercise Guide](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/SimplyAnalytics USA Exercise Guide - Answering Research Questions - Standard.pdf)
-
-Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization), [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data) | Tools: [SimplyAnalytics](https://mdl.library.utoronto.ca/tools/simplyanalytics-0) | Data Format: [Statistics](https://mdl.library.utoronto.ca/data-format/statistics), [Vector](https://mdl.library.utoronto.ca/data-format/vector)
