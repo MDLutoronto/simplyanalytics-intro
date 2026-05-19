@@ -5,8 +5,8 @@ description: "This online tutorial will provide an introduction to SimplyAnalyti
 created_date: 2018-01-04
 permalink: "/"  #! Remove this if not the homepage
 maintainer:
- - name: Leanne Trimble
-   link: https://library.utoronto.ca/staff/leanne-trimble
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 ---
 
 # Introduction to SimplyAnalytics
@@ -597,3 +597,5 @@ Please also feel free to consult these official guides from SimplyAnalytics:
 * [SimplyAnalytics Canada FAQ](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada%20FAQ_Standard.pdf)
 * [SimplyAnalytics Canada FAQ - PRIZM database](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada FAQ Sheet_PRIZM_PremD&B.pdf)
 * [SimplyAnalytics USA Exercise Guide](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/SimplyAnalytics USA Exercise Guide - Answering Research Questions - Standard.pdf)
+
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) \| **Tools:** [SimplyAnalytics](https://mdlutoronto.github.io/tutorials-search/?tool=SimplyAnalytics) \| **Data Format:** [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
