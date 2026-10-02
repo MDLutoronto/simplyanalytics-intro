@@ -11,7 +11,7 @@ nav_order: 1
 ## Accessing SimplyAnalytics
 {: #accessing-simplyanalytics}
 
-All U of T students, staff, and faculty have access to SimplyAnalytics. SimplyAnalytics is accessed through a web browser (Firefox or Internet Explorer). If you are off-campus, you need to login with your UTORid before you can use SimplyAnalytics. In this case, you should start by accessing SimplyAnalytics through the library’s website. Go to <https://mdl.library.utoronto.ca/>. Type “simplyanalytics” in the search box.  
+All U of T students, staff, and faculty have access to SimplyAnalytics. SimplyAnalytics is accessed through a web browser (Firefox or Internet Explorer). If you are off-campus, you need to login with your UTORid before you can use SimplyAnalytics. In this case, you should start by accessing SimplyAnalytics through the library’s website. Go to <https://library.utoronto.ca/>. Type “simplyanalytics” in the search box.  
   
 <img src='{{ '/assets/images/simplyanalytics_1.png' | relative_url }}' alt='MDL library search bar' title='' width='600' height='164' />  
   
@@ -35,4 +35,4 @@ Once you have logged in, you’ll see the SimplyAnalytics main screen. You may b
 
 <img src='{{ '/assets/images/004-new-project.PNG' | relative_url }}' alt='' title='' width='1015' height='687' />
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) \| **Tools:** [SimplyAnalytics](https://mdlutoronto.github.io/tutorials-search/?tool=SimplyAnalytics) \| **Data Format:** [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) | **Tools:** [SimplyAnalytics](https://mdlutoronto.github.io/tutorials-search/?tool=SimplyAnalytics) | **Data Format:** [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
